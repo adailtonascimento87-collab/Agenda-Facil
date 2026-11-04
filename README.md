@@ -1,8 +1,11 @@
-# agenda facil
+# Agenda Fácil (Versão de Demonstração)
 
-Plataforma e sistema de agendamento universal ( MATRIZ ) 
+Plataforma e sistema de agendamento universal configurada **exclusivamente para fins de demonstração**.
 
-### 🌟 Funcionalidades:
-- Sistema de agendamento online integrado com WhatsApp.
-- Painel de gestão exclusivo para a profissional com controle de horários e serviços.
-- Customização de paleta de cores e regras de atendimento.
+## 📌 Objetivo do Repositório:
+* Ambiente de testes e apresentação comercial para clientes.
+* Demonstração prática do fluxo de agendamento integrado.
+* Base flexível para futuros projetos customizados por nicho.
+
+---
+*Desenvolvido para apresentações dinâmicas e conversão.*

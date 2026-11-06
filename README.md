@@ -1,11 +1,20 @@
-# Agenda Fácil (Versão de Demonstração)
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-Plataforma e sistema de agendamento universal configurada **exclusivamente para fins de demonstração**.
+# Run and deploy your AI Studio app
 
-## 📌 Objetivo do Repositório:
-* Ambiente de testes e apresentação comercial para clientes.
-* Demonstração prática do fluxo de agendamento integrado.
-* Base flexível para futuros projetos customizados por nicho.
+This contains everything you need to run your app locally.
 
----
-*Desenvolvido para apresentações dinâmicas e conversão.*
+View your app in AI Studio: https://ai.studio/apps/b55b0615-e357-4f81-9d4e-7aca1631e6d2
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
